@@ -6,7 +6,7 @@
 ---
 
 ## 🔍 About Me
-I'm a cybersecurity student/professional actively building hands-on experience through real-world environments including the Cyber Range, NCyTE VCCC program, and my personal homelab. I'm passionate about network defense, security operations, and continuous learning.
+I'm a cybersecurity student/professional building hands-on experience through real-world environments including the Cyber Range, NCyTE VCCC program, and my personal homelab. I'm passionate about IT and securing networks. I transitioned from accounting, skills that I bridge from that experience are problem solving, effective communication and auditing experience. I love learning and cybersecurity offers the opportunity to always learn something new, especially with AI implementations accelerating the growth of offensive and defensive measures.
 
 - 🎓 Currently completing: **WGU - BSCIA**
 - 🛡️ Active member of: **Cyber Range**
@@ -29,41 +29,52 @@ I'm a cybersecurity student/professional actively building hands-on experience t
 **Homelab**
 - [Network Segmentation & VLAN Configuration](https://github.com/thelogansmith/[TBD])
 - [SIEM Deployment & Log Monitoring](https://github.com/thelogansmith/[TBD])
+- [DNS Tunnel and Remote Access](https://github.com/thelogansmith/[TBD])
+
 
 **NCyTE VCCC**
-- [Module / Project Name](https://github.com/thelogansmith/[TBD])
-- [Module / Project Name](https://github.com/thelogansmith/[TBD])
-  
+- [3 Layer Network Setup and Configuration](https://github.com/thelogansmith/[TBD])
+- [Cybersecurity Training Academy (Mock Business)](https://github.com/thelogansmith/[TBD])
+- [AI Agent Implementation (Customer Service)](https://github.com/thelogansmith/[TBD])
+
+<!--**Scripts and Tools**
+- [3 Layer Network Setup and Configuration](https://github.com/thelogansmith/[TBD])
+- [Cybersecurity Training Academy (Mock Business)](https://github.com/thelogansmith/[TBD])
+- [AI Agent Implementation (Customer Service)](https://github.com/thelogansmith/[TBD])
+-->
 ---
 
 ## 🛠️ Skills & Tools
 
 **Networking:** VLANs, Routing, Switching, Firewalls, TCP/IP  
 **Security:** Network Defense, Log Analysis, Threat Detection  
-**Tools:** OPNsense, Wazuh, Prometheus, Grafana, Active Directory  
-**Scripting:** Python, Powershell, Bash
+**Tools:** OPNsense, Wazuh, Prometheus, Grafana, Nmap, Wireshark  
+**Scripting:** Python, Powershell, Bash  
 **Platforms:** Linux (RHEL/Ubuntu), Windows (10/11/2025 Server), Proxmox
 
 ---
 
 ## 📜 Certifications & Programs
-- [ ] Bachelors in Cybersecurity and Information Assurance — In Progress
-- [ ] CompTIA CySA+ — In Progress
-- [ ] NCyTE VCCC — In Progress
-- [ ] CompTIA Security+
-- [ ] CompTIA Network+
-- [ ] ISC^2 SSCP — Candidate
-- [ ] CompTIA A+
-- [ ] CompTIA Project+
-- [ ] LPI Essentials
+**Completed**
+- CompTIA A+
+- CompTIA Project+
+- CompTIA Network+
+- CompTIA Security+
+- LPI Linux Essentials
 
+**In Progress**
+- WGU B.S. Cybersecurity & Information Assurance
+- CompTIA CySA+
+- NCyTE VCCC
+- ISC² SSCP — Associate
+  
 ---
-
+<!-- 
 ## 📺 YouTube Videos
   [FUTURE VIDEOS]
 
 ---
-
+-->
 ## 🤳 Connect With Me
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
