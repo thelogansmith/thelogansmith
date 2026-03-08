@@ -56,10 +56,10 @@ I'm a cybersecurity student/professional building hands-on experience through re
 
 ## 📜 Certifications & Programs
 **Completed**
-- CompTIA A+
-- CompTIA Project+
-- CompTIA Network+
 - CompTIA Security+
+- CompTIA Network+
+- CompTIA Project+
+- CompTIA A+
 - LPI Linux Essentials
 
 **In Progress**
