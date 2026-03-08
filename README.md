@@ -76,10 +76,10 @@ I'm a cybersecurity student/professional actively building hands-on experience t
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 ![Logan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thelogansmith&show_icons=true&theme=dark)
 
 ---
-
+--> 
 *This portfolio is actively maintained and updated as I complete new exercises and projects.*
