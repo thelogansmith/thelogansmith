@@ -82,7 +82,7 @@ I'm a cybersecurity student/professional building hands-on experience through re
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
-[linkedin]: https://linkedin.com/in/ls2026
+[linkedin]: www.linkedin.com/in/ls2026
 [github]: https://github.com/thelogansmith
 
 <br />
