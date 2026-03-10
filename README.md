@@ -19,26 +19,25 @@ I'm a cybersecurity student/professional building hands-on experience through re
 ## 👨‍💻 Cybersecurity Projects
 
 **Vulnerability Management**
-- [Vulnerability Management Program Implementation](https://github.com/thelogansmith/[TBD])
-- [Vulnerability Remediation via PowerShell and BASH](https://github.com/thelogansmith/[TBD])
-
+- [Vulnerability Management Program Implementation](https://github.com/thelogansmith/TheCyberRange/blob/main/Vulnerability%20Management/Vulnerability%20Management%20Implementation/README.md)
+- [Vulnerability Remediation via PowerShell and BASH](https://github.com/thelogansmith/TheCyberRange/blob/main/Vulnerability%20Management/Remediation%20via%20BASH%20and%20Powershell/README.md)
+  
 **Security Operations & Incident Response**
-- [Mini SOC and Honeynet](https://github.com/thelogansmith/[TBD])
-- [Threat Hunting & Detection](https://github.com/thelogansmith/[TBD])
+- [Mini SOC and Honeynet](https://github.com/thelogansmith/TheCyberRange/blob/main/Security%20Operations%20and%20Incident%20Response/SOC%20and%20Honeynet/README.md)
+- [Threat Hunting & Detection](https://github.com/thelogansmith/TheCyberRange/blob/main/Security%20Operations%20and%20Incident%20Response/Threat%20Hunting%20and%20Detection/README.md)
 
-**Homelab**
-- [Network Segmentation & VLAN Configuration](https://github.com/thelogansmith/[TBD])
-- [SIEM Deployment & Log Monitoring](https://github.com/thelogansmith/[TBD])
-- [DNS Tunnel and Remote Access](https://github.com/thelogansmith/[TBD])
+**Homelab** [➡️](https://github.com/thelogansmith/Homelab)
+- Network Segmentation & VLAN Configuration
+- SIEM Deployment & Log Monitoring
+- DNS Tunnel and Remote Access
 
+**NCyTE VCCC** [➡️](https://github.com/thelogansmith/NCyTE-VCCC)
+- 3 Layer Network Setup and Configuration
+- Cybersecurity Training Academy (Mock Business)
+- AI Agent Implementation (Customer Service)
 
-**NCyTE VCCC**
-- [3 Layer Network Setup and Configuration](https://github.com/thelogansmith/[TBD])
-- [Cybersecurity Training Academy (Mock Business)](https://github.com/thelogansmith/[TBD])
-- [AI Agent Implementation (Customer Service)](https://github.com/thelogansmith/[TBD])
-
-**CTFs**
-- [Advent of Cyber 2025](https://github.com/thelogansmith/[TBD])
+**CTFs** [➡️](https://github.com/thelogansmith/CTFs)
+- [Advent of Cyber 2025](https://github.com/thelogansmith/CTFs/tree/main/TryHackMe/Advent%20of%20Cyber%202025)
 
 <!--**Scripts and Tools**
 - [3 Layer Network Setup and Configuration](https://github.com/thelogansmith/[TBD])
