@@ -37,6 +37,9 @@ I'm a cybersecurity student/professional building hands-on experience through re
 - [Cybersecurity Training Academy (Mock Business)](https://github.com/thelogansmith/[TBD])
 - [AI Agent Implementation (Customer Service)](https://github.com/thelogansmith/[TBD])
 
+**CTFs**
+- [Advent of Cyber 2025](https://github.com/thelogansmith/[TBD])
+
 <!--**Scripts and Tools**
 - [3 Layer Network Setup and Configuration](https://github.com/thelogansmith/[TBD])
 - [Cybersecurity Training Academy (Mock Business)](https://github.com/thelogansmith/[TBD])
