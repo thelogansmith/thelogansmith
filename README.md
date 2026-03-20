@@ -23,7 +23,6 @@ I'm a cybersecurity student/professional building hands-on experience through re
 - [Vulnerability Remediation via PowerShell and BASH](https://github.com/thelogansmith/TheCyberRange/blob/main/Vulnerability%20Management/Remediation%20via%20BASH%20and%20Powershell/README.md)
   
 **Security Operations & Incident Response**
-- [Mini SOC and Honeynet](https://github.com/thelogansmith/TheCyberRange/blob/main/Security%20Operations%20and%20Incident%20Response/SOC%20and%20Honeynet/README.md)
 - [Threat Hunting & Detection](https://github.com/thelogansmith/TheCyberRange/blob/main/Security%20Operations%20and%20Incident%20Response/Threat%20Hunting%20and%20Detection/README.md)
 
 **Homelab** [➡️](https://github.com/thelogansmith/Homelab)
